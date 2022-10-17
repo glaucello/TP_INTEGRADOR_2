@@ -1,0 +1,77 @@
+.bg{
+  background-color: #3e4144;;
+  color: white;
+  align-items:center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  text-align: left;
+}
+
+.g{
+  background-color: #3e4144;;
+  color: limegreen;
+}
+
+.bgb{
+  background-color:#096171;
+  color: white;
+  align-items:center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  text-align: left;
+}
+
+.img1{
+  width: 80px;
+  height: 50px;
+}
+
+.img2{  
+  width:1400px;
+  height: 600px;
+}
+
+.card{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+footer{
+  height: 60px;
+}
+
+.p{
+  text-align: left;
+}
+
+.big-banner{
+  width:1400px;
+  height: 600px;
+  background-image: url('img/ba1.jpg');
+}
+
+h2{
+  text-align: left;
+}
+
+.h2r{
+  text-align: right;
+}
+
+h8{
+  text-align: left;
+}
+
+.a{
+  color: green;
+}
+
+.input_calculo
+{
+  text-align: left;
+  background-color:cadetblue; 
+  color: white; 
+  height: 40px; 
+  vertical-align: auto;
+}
